@@ -17,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vegemo-bear&show_icons=true&locale=en" alt="vegemo-bear" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vegemo-bear&" alt="vegemo-bear" /></p>
-
