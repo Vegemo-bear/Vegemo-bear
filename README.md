@@ -3,11 +3,11 @@
 
 - 🔭 **When I was an undergraduate, I was interested in python and C++ , and I was fascinated by the project combining hardware and visual algorithms.**
 
-- 🌱 **Now I am learning knowledge about AI algorithm reasoning and deployment.**
+- 🌱 **When I was a graduate student, I chose computer vision as my research direction.**
 
-- 👯 **When I was a graduate student, I chose computer vision as my research direction.**
+- 👯 **My main research direction is OCR, but I have also worked on image classification, object detection and instance segmentation algorithms for a while.**
 
-- 🤝 **My main research direction is OCR, but I have also worked on image classification, object detection and instance segmentation algorithms for a while.**
+- 🤝 **Now I am learning knowledge about AI algorithm reasoning and deployment.**
 
 - ⚡ **Hope to meet more friends. Nice to meet you~**
 
