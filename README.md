@@ -1,5 +1,15 @@
 <h1 align="center">Hi Here！👋 I'm Vegemo-bear.</h1>
-<h3 align="center">Hi,I'm Vegemo-bear, a graduate student who full of love and confidence in life.</h3>
+<h3 align="center">Hi, I'm Vegemo-bear, a graduate student who full of love and confidence in life.</h3>
+
+- 🔭 **When I was an undergraduate, I was interested in python and C++ , and I was fascinated by the project combining hardware and visual algorithms.**
+
+- 🌱 **Now I am learning knowledge about AI algorithm reasoning and deployment.**
+
+- 👯 **When I was a graduate student, I chose computer vision as my research direction.**
+
+- 🤝 **My main research direction is OCR, but I have also worked on image classification, object detection and instance segmentation algorithms for a while.**
+
+- ⚡ **Hope to meet more friends. Nice to meet you~**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
