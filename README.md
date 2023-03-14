@@ -12,6 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vegemo-bear&show_icons=true&locale=en" alt="vegemo-bear" /></p>
 
-### At the same time, I also have other blogs, welcome to pay attention!💻📌
+---
+### Finally, Here are my other blogs!💻📌
 - ➡️ [Vegemo-bear's home page in zhihu💛](https://www.zhihu.com/people/ming-yue-yi-jiu-63)
 - ➡️ [Vegemo-bear's home page in CSDN💛](https://blog.csdn.net/Moon_Remain_?type=blog)
