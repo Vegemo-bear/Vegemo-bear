@@ -1,4 +1,4 @@
-<h1 align="left">Hi Here！👋 I'm Vegemo-bear.</h1>
+<h1 align="left">Hi Here！<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Vegemo-bear.</h1>
 <h3 align="left">Hi, I'm Vegemo-bear, a graduate student who full of love and confidence in life.</h3>
 
 - 🔭 **When I was an undergraduate, I was interested in python and C++ , and I was fascinated by the project combining hardware and visual algorithms.**
